@@ -1,5 +1,4 @@
 import React from 'react';
-import Featured from './featured';
 
 const portfoilo = [
     {
@@ -24,10 +23,11 @@ const portfoilo = [
     },
 ]
 
+
+
 export default function Portfolio() {
     return (
         <div>
-            <Featured />
             {portfoilo.map((project) => (
                 <img key={project.imageId} src={project.image} alt={project.alt}></img>
             ))}
