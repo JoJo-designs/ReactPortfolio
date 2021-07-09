@@ -4,7 +4,7 @@ import AboutMe from './aboutme';
 import Portfolio from './portfolio';
 import Contact from './contact';
 import Resume from './resume';
-
+import Footer from './footer';
 
 
 export default function Body() {
@@ -32,6 +32,7 @@ export default function Body() {
         <div>
           <NavItem currentPage={currentPage} changePage={changePage}/>
           {renderPage()}
+          <Footer />
           </div>
           
     );
