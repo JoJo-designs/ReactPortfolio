@@ -6,7 +6,6 @@ import Contact from './contact';
 import Resume from './resume';
 import Footer from './footer';
 
-
 export default function Body() {
   const [currentPage, setCurrentPage] = useState('About'); 
   
