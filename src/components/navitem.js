@@ -7,7 +7,6 @@ export default function NavItem ({currentPage, changePage}) {
             <li><a href="#Portfolio" onClick={() => changePage('Portfolio')}>Portfolio</a></li>
             <li><a href="#Contact" onClick={() => changePage('Contact')}>Contact</a></li>
             <li><a href="#Resume" onClick={() => changePage('Resume')}>Resume</a></li>
-            
         </ul>
     )
 }
