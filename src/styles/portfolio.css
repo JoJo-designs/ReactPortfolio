@@ -1,0 +1,20 @@
+/*  files holds styling for the portfolio page */
+
+/* colours save in a variables */
+:root {
+    --orange: #DDBE90;
+    --white: white;
+    --red: #a14343;
+    --rosy: rgb(209, 88, 88);
+}
+
+.featured {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.imgGrid {
+    width: 30%;
+    margin: 5px;
+}

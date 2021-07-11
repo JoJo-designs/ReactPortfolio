@@ -28,9 +28,9 @@ export default function Body() {
   const changePage = (page) => setCurrentPage(page);
 
     return (
-        <div>
+        <div >
           <NavItem currentPage={currentPage} changePage={changePage}/>
-          {renderPage()}
+          <div className="flex">{renderPage()}</div>
           <Footer />
           </div>
           

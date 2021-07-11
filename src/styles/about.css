@@ -1,0 +1,46 @@
+/* files holds styling for the about page. */
+
+/* colours saved in variables */
+:root {
+    --orange: #DDBE90;
+    --white: white;
+    --red: #a14343;
+    --rosy: rgb(209, 88, 88);
+}
+
+.forty {
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 30px;
+}
+
+.profileImage {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.sixty {
+    width: 53%;
+    margin-right: 30px;
+}
+
+@media screen and (max-width: 900px) {
+    .forty {
+      width: 95%;
+      margin-left: 20px;
+    }
+  }
+
+@media screen and (max-width: 900px) {
+    .sixty {
+      width: 95%;
+      margin-left: 20px;
+    }
+  }
+
+  @media screen and (max-width: 900px) {
+    .profileImage{
+      height: 100%;
+    }
+  }
