@@ -47,7 +47,6 @@ a {
 
 .flex {
     display: flex;
-    flex-wrap: wrap;
 }
 
 .inner {

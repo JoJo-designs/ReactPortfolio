@@ -14,7 +14,20 @@
     margin-bottom: 20px;
 }
 
+.flexing {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.linkflex {
+    width: 32.33%;
+    flex-wrap: wrap;
+    flex-shrink: 2;
+    padding: 0 5px 10px 5px;
+}
+
 .imgGrid {
-    width: 30%;
-    margin: 5px;
+    width: 100%;
+    display: block; 
 }

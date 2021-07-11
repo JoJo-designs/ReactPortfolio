@@ -1,0 +1,24 @@
+/* files holds styling for the resume page. */
+
+/* colours saved in variables */
+:root {
+    --orange: #DDBE90;
+    --white: white;
+    --red: #a14343;
+    --rosy: rgb(209, 88, 88);
+}
+
+.resumeblock {
+    text-align: left;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 40px;
+}
+
+.listblock {
+}
+
+.list {
+    margin: 10px 25px;
+}

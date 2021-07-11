@@ -1,7 +1,6 @@
 import React from 'react';
 import ContactData from './contactdata';
 import '../styles/contact.css'
-// somthing broke in the contact css.
 
 export default function Contact() {
     return (
