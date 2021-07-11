@@ -1,0 +1,42 @@
+/* file hold stuff in the contact page */
+
+/* colours stored in variables */
+:root {
+    --orange: #DDBE90;
+    --white: white;
+    --red: #a14343;
+    --rosy: rgb(209, 88, 88);
+}
+
+.fifty {
+    width: 48%;
+    background-color: var(--orange);
+    padding: 20px;
+    margin-right: 30px;
+}
+
+input {
+    display: block;
+    width: 95%;
+    margin-bottom: 10px;
+    height: 23px;
+    font-size: 20px;
+    border: none;
+}
+
+textarea {
+    width: 95%; 
+    height: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.submit {
+    width: 95%; 
+    font-size: 20px;
+    background-color: var(--rosy);
+    text-align: center;
+    padding: 10px 2px;
+}
