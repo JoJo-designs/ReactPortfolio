@@ -48,13 +48,10 @@ export default function Contact() {
         setError('')
     }
 
-
-
-
     return (
         <div className="inner">
             <form className="fifty">
-                <h2>this contact</h2>
+                <h4>Contact Me</h4>
                 <input 
                 placeholder="Name"
                 value={name}

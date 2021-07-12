@@ -18,6 +18,7 @@
 
 .listblock {
     color: var(--red);
+    padding-top: 15px;
 }
 
 .list {
@@ -29,3 +30,9 @@
     display: inline-block;
     margin: 10px;
 }
+
+@media screen and (max-width: 900px) {
+    .twenty {
+      width: 40%;
+    }
+  }

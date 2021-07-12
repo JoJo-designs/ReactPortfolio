@@ -42,8 +42,8 @@ export default function Jobs() {
             <h3 className="listblock">Experience</h3>
             {job.map((job) => (
             <div className="twenty" key={job.job}>
-               <h5>{job.type} {job.jobTitle}</h5>
-               <h5>{job.company}</h5>
+               <h5>{job.type}{job.jobTitle},</h5>
+               <h5>{job.company},</h5>
                <h5>{job.dates}</h5>
                <p>{job.desc}</p>
             </div>

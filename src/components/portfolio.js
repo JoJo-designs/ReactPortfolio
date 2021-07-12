@@ -2,53 +2,53 @@ import React from 'react';
 import Featured from './featured';
 import '../styles/portfolio.css'
 
-//images are 400 x 450 ish check later.
+//images are 400 x 458 ish check later.
 const portfoilo = [
     {
         imageId: 1,
-        image: "./images/img13.png",
+        image: "./images/img8.jpg",
         alt: "app",
         a: "#",
     },
     {
         imageId: 2,
-        image: "./images/img13.png",
+        image: "./images/img8.jpg",
         alt: "app",
         a: "#",
     },
     {
         imageId: 3,
-        image: "./images/img13.png",
+        image: "./images/img8.jpg",
         alt: "app",
         a: "#",
     },
     {
         imageId: 4,
-        image: "./images/img13.png",
+        image: "./images/img8.jpg",
         alt: "app",
         a: "#",
     },
     {
         imageId: 5,
-        image: "./images/img13.png",
+        image: "./images/img8.jpg",
         alt: "app",
         a: "#",
     },
     {
         imageId: 6,
-        image: "./images/img13.png",
+        image: "./images/img8.jpg",
         alt: "app",
         a: "#",
     },
     {
         imageId: 7,
-        image: "./images/img13.png",
+        image: "./images/img8.jpg",
         alt: "app",
         a: "#",
     },
     {
         imageId: 8,
-        image: "./images/img13.png",
+        image: "./images/img8.jpg",
         alt: "app",
         a: "#",
     },

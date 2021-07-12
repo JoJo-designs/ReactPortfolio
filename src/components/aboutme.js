@@ -10,7 +10,7 @@ export default function AboutMe() {
             <div className="forty"><AboutImage /></div>
             <aside className="sixty">
             <h2>About me</h2>
-            <h3>Full Stack web development | graphic Designer</h3>
+            <h3>Full Stack web development & Graphic Designer</h3>
             <p>this is some text about me and why people should hire me I guess. Lorem Ipsum is simply dummy
                  text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard 
                  dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled 
