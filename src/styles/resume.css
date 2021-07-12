@@ -17,8 +17,15 @@
 }
 
 .listblock {
+    color: var(--red);
 }
 
 .list {
     margin: 10px 25px;
+}
+
+.twenty {
+    width: 22%;
+    display: inline-block;
+    margin: 10px;
 }

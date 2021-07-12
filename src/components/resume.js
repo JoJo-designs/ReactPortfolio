@@ -1,8 +1,8 @@
 import React from 'react';
 import '../styles/resume.css'
 import Skills from './skills';
-// import Jobs from './jobs'
-// import Education from './eduaction'
+import Jobs from './jobs'
+import Education from './eduaction'
 
 export default function Resume() {
     return (
@@ -11,10 +11,8 @@ export default function Resume() {
            <h2>Jodi Ladouceur</h2>
            <h3>Full Stack Web Developer | Graphic Designer </h3>
             <Skills />
-            {/* <h3>Experience</h3>
             <Jobs />
-            <h3>Education</h3>
-            <Education /> */}
+            <Education />
         </div>
         </div>
     )

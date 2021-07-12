@@ -12,6 +12,7 @@ const education = [
 export default function Education() {
     return (
         <div>
+            <h3 className="listblock">Education</h3>
             {education.map((school) => (
                <h5 key={school.schoolID}>{school.school} {school.course}, {school.years}</h5> 
             ))}
