@@ -3,15 +3,31 @@ import React from 'react';
 const skills = [
     {
         skillID: 1,
-        skill: "HTML"
+        skill: "HTML, CSS, Javascript, bootstrap and jQuery"
     },
     {
         skillID: 2,
-        skill: "CSS"
+        skill: "Node.js and Npm"
     },
     {
         skillID: 3,
-        skill: "React"
+        skill: "MySQL, NoSQL and Express"
+    },
+    {
+        skillID: 4,
+        skill: "Handlebars.js and React.js"
+    },
+    {
+        skillID: 5,
+        skill: "Adobe Creative Cloud. Illustrator, Photoshop, InDesign, After Effects and Premier Pro "
+    },
+    {
+        skillID: 6,
+        skill: "Organizational and Time Management Skills"
+    },
+    {
+        skillID: 7,
+        skill: "Leadership and cooperation"
     },
 ]
 

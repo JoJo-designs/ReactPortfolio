@@ -4,8 +4,7 @@ export default function ContactData() {
     return (
         <div>
             <h2>Direct Contact</h2>
-            <p>Phone: XXX-XXX-XXXX</p>
-            <p>Email: email@email.com</p>
+            <p>Email: jodiladouceur.design@gmail.com</p>
         </div>
     )
 }
