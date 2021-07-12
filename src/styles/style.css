@@ -45,6 +45,11 @@ a {
     text-align: right;
 }
 
+.navItems:hover {
+    background: var(--red);
+    padding: 15px;
+}
+
 .flex {
     display: flex;
 }
