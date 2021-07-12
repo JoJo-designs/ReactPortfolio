@@ -9,9 +9,16 @@
 }
 
 .featured {
+    width: 100%;
+    display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 20px;
+}
+
+.featflex {
+    display: flex;
+    width: 100%;   
+    padding: 0;
 }
 
 .flexing {
@@ -21,8 +28,7 @@
 }
 
 .linkflex {
-    width: 32.33%;
-    flex-wrap: wrap;
+    width: 32%;
     flex-shrink: 2;
     padding: 0 5px 10px 5px;
 }
@@ -31,3 +37,9 @@
     width: 100%;
     display: block; 
 }
+
+@media screen and (max-width: 1100px) {
+    .linkflex {
+      width: 47%;
+    }
+  }
