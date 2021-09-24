@@ -29,7 +29,7 @@
 .overLapping {
     position: relative;
     top: -90px;
-    left: 1000px;
+    right: 20px;
     width: 90px;
 }
 
@@ -44,7 +44,7 @@
     width: 32%;
     flex-shrink: 2;
     padding: 0 5px 0 5px;
-    margin-bottom: -200px;
+    margin-bottom: -250px;
 }
 
 .imgGrid {
