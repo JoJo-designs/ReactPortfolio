@@ -26,6 +26,12 @@
     flex-wrap: wrap;
 }
 
+.overLapping {
+    position: relative;
+    top: -90px;
+    left: 1000px;
+    width: 90px;
+}
 
 .overLap {
     position: relative;
