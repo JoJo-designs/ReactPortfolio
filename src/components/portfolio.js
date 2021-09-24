@@ -69,7 +69,7 @@ export default function Portfolio() {
             <div className="featured"><Featured /></div>
             <div className="flexing">
                 {portfoilo.map((project) => (
-              <div className="linkflex hovering"> <a key={project.imageId} href={project.a}>
+              <div className="linkflex"> <a key={project.imageId} href={project.a}>
                    <img src={project.image} alt={project.alt} className="imgGrid"></img>
                    </a> 
                    <div className="overLap"><SocialIcon url={project.gitA} bgColor="none" fgColor="rgb(209, 88, 88)"/></div>

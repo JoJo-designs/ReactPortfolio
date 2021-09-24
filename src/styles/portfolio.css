@@ -27,10 +27,6 @@
 }
 
 
-.hovering:hover {
-    opacity: 50%;
-}
-
 .overLap {
     position: relative;
     top: -90px;
