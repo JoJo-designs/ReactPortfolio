@@ -10,7 +10,7 @@ export default function AboutMe() {
             <div className="forty"><AboutImage /></div>
             <aside className="sixty">
             <h2>About me</h2>
-            <h3>Full Stack web development & Graphic Designer</h3>
+            <h3>Full Stack web development | Graphic Designer</h3>
             <p>As a full-stack web developer and graphic designer, I have a unique
                 set of skills that allow me to complete a project from beginning
                 to end. I graduated graphic design from Durham college in 2020
