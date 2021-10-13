@@ -4,13 +4,13 @@ const education = [
     {
         schoolID: 1,
         school: "Carleton University",
-        course: "Full Stack Web Development",
+        course: "Full Stack Web Development, Certificate",
         years: "2021"
     },
     {
         schoolID: 2,
         school: "Durham College",
-        course: "Graphic Design",
+        course: "Graphic Design, Ontario Advanced Diploma",
         years: "2017 - 2020"
     },
     
