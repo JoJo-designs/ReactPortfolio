@@ -85,8 +85,9 @@ export default function Portfolio() {
                    <div className="overLap"><SocialIcon url={project.gitA} bgColor="none" fgColor="rgb(209, 88, 88)"/></div>
                 </div>
             ))}
-            </div>
             <Design />
+            </div>
+            
         </div>
     )
 }
