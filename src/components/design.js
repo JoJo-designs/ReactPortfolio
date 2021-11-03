@@ -14,17 +14,7 @@ const design = [
 export default function Design() {
     return (
         <div className="inner">
-            <h1>This is the Graphic Deign Part</h1>
-            <p>I hope this works</p>
-            <div className="flexing">
-            {design.map((projects) => (
-                <div className="linkflex"> <a key={projects.imageID} href={projects.href}>
-                    <img src={projects.image} alt={projects.alt} className="imgGrid"></img>
-                    </a>
-                    </div>
-            ))}
-                  
-            </div>
+            <h1>Graphic Deign Work Coming Soon</h1>   
         </div>
     )
 }
