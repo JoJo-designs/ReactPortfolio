@@ -74,7 +74,7 @@ export default function Contact() {
                 {errorMessage && (
                     <p className="error">{errorMessage}</p>
                 )}
-                <div className="submit" onClick={handleform}> submit </div>
+                <button className="submit" onClick={handleform}> submit </button>
            </form>
            <div className="forty"><ContactData /></div>
         </div>
