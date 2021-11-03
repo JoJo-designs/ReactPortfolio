@@ -18,7 +18,7 @@ export default function Design() {
             <p>I hope this works</p>
             <div className="flexing">
             {design.map((projects) => (
-                <div className="linkflex"> <a key={projects.imageID} href={projects.href} target="_blank">
+                <div className="linkflex"> <a key={projects.imageID} href={projects.href}>
                     <img src={projects.image} alt={projects.alt} className="imgGrid"></img>
                     </a>
                     </div>
