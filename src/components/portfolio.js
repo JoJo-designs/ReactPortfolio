@@ -2,14 +2,12 @@ import React from 'react';
 import Featured from './featured';
 import { SocialIcon } from 'react-social-icons';
 import '../styles/portfolio.css'
-import weather from "./image/img8.jpg"
-import pets from "./image/img7.jpg"
-import password from "./image/img9.jpg"
-import work from "./image/img10.jpg"
-import note from "./image/img11.jpg"
-import field from "./image/img12.jpg"
-import fitness from "./image/img15.jpg"
-import tech from "./image/img17.jpg"
+import weather from "./image/weather_800x550.jpg"
+import pets from "./image/pet_800x550.jpg"
+import password from "./image/password_800x550.jpg"
+import work from "./image/workday_800x550.jpg"
+import note from "./image/note_800x550.jpg"
+import tech from "./image/tech_800x550.jpg"
 
 
 //images are 400 x 458 ish check later.
@@ -51,20 +49,6 @@ const portfoilo = [
     },
     {
         imageId: 6,
-        image: field,
-        alt: "ottawa sport field booking app",
-        a: "https://lit-spire-78703.herokuapp.com/",
-        gitA: "https://github.com/FieldBookingSystem/FieldBookingSystem",
-    },
-    {
-        imageId: 7,
-        image: fitness,
-        alt: "fitness tracker app",
-        a: "https://cool-fitness.herokuapp.com/",
-        gitA: "https://github.com/JoJo-designs/fitnessTracker",
-    },
-    {
-        imageId: 8,
         image: tech,
         alt: "A Tech Dashboard app",
         a: "https://super-tech-dashboard.herokuapp.com/",
@@ -85,7 +69,12 @@ export default function Portfolio() {
                 </div>
             ))}
             </div>
-            
+            <div className="videoDiv">
+            <iframe width="900" height="500" src="https://www.youtube.com/embed/uvIHrGorxNg" 
+            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+             encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             <div className="overLap"><SocialIcon url={"https://github.com/JoJo-designs/e-commerce_backend"} bgColor="none" fgColor="rgb(209, 88, 88)"/></div>
+            </div>
         </div>
     )
 }
