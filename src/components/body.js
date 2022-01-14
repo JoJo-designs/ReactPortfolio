@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import NavItem from './navitem';
 import AboutMe from './aboutme';
 import Portfolio from './portfolio';
+import Design from './design'
 import Contact from './contact';
 import Resume from './resume';
 import Footer from './footer';
@@ -16,6 +17,9 @@ export default function Body() {
     }
     if (currentPage === 'Portfolio') {
       return <Portfolio />
+    }
+    if (currentPage === 'Graphic') {
+      return <Design />
     }
     if (currentPage === 'Contact') {
       return <Contact />

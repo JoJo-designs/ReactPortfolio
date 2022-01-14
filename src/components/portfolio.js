@@ -1,6 +1,5 @@
 import React from 'react';
 import Featured from './featured';
-import Design from './design';
 import { SocialIcon } from 'react-social-icons';
 import '../styles/portfolio.css'
 import weather from "./image/img8.jpg"
@@ -85,7 +84,6 @@ export default function Portfolio() {
                    <div className="overLap"><SocialIcon url={project.gitA} bgColor="none" fgColor="rgb(209, 88, 88)"/></div>
                 </div>
             ))}
-            <Design />
             </div>
             
         </div>
