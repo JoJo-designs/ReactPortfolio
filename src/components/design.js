@@ -14,7 +14,7 @@ import React from 'react';
 export default function Design() {
     return (
         <div className="inner">
-            <h1>Graphic Deign Work Coming Soon</h1>   
+            <h1>Graphic Deign Work Coming Soon. If I can get this to work.</h1>   
         </div>
     )
 }
