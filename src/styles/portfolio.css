@@ -53,5 +53,22 @@
   /* building a lot of changes */
 
   .videoDiv {
-      margin-top: 20px;
+      width: 65%;
+      height: 500px;
+  }
+
+  .add10 {
+      margin-top:20px;
+  }
+
+  @media screen and (max-width: 1100px) {
+    .videoDiv {
+        height: 350px;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    .videoDiv {
+        height: 250px;
+    }
   }

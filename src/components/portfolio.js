@@ -69,8 +69,8 @@ export default function Portfolio() {
                 </div>
             ))}
             </div>
-            <div className="videoDiv">
-            <iframe width="900" height="500" src="https://www.youtube.com/embed/uvIHrGorxNg" 
+            <div className="videoDiv add10">
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/uvIHrGorxNg" 
             title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
              encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              <div className="overLap"><SocialIcon url={"https://github.com/JoJo-designs/e-commerce_backend"} bgColor="none" fgColor="rgb(209, 88, 88)"/></div>

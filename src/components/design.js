@@ -40,7 +40,7 @@ export default function Design() {
                 ))}
             </div>
             <div className="videoDiv">
-            <iframe width="900" height="500" src="https://www.youtube.com/embed/JsYNm-2cJn0" 
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/JsYNm-2cJn0" 
             title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
             encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
