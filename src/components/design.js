@@ -17,13 +17,13 @@ const design = [
         imageID: 2,
         image: decora,
         alt: "colour book cover",
-        href: "https://jojo-designs.github.io/portfoilo_helper/project1.html",
+        href: "https://jojo-designs.github.io/portfoilo_helper/project2.html",
     },
     {
         imageID: 3,
         image: exhibition,
         alt: "colour book cover",
-        href: "https://jojo-designs.github.io/portfoilo_helper/project1.html",
+        href: "https://jojo-designs.github.io/portfoilo_helper/project3.html",
     },
 ]
 
@@ -38,6 +38,11 @@ export default function Design() {
                         </a>
                     </div>
                 ))}
+            </div>
+            <div className="videoDiv">
+            <iframe width="900" height="500" src="https://www.youtube.com/embed/JsYNm-2cJn0" 
+            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+            encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     )
