@@ -5,7 +5,6 @@ import decora from "./image/design2.jpg";
 import exhibition from "./image/design3.jpg"
 
 
-
 const design = [
     {
         imageID: 1,
@@ -16,13 +15,13 @@ const design = [
     {
         imageID: 2,
         image: decora,
-        alt: "colour book cover",
+        alt: "Poster for Decora a paint and home decor store",
         href: "https://jojo-designs.github.io/portfoilo_helper/project2.html",
     },
     {
         imageID: 3,
         image: exhibition,
-        alt: "colour book cover",
+        alt: "A poster for a museum exhibit about nenaderthals",
         href: "https://jojo-designs.github.io/portfoilo_helper/project3.html",
     },
 ]
