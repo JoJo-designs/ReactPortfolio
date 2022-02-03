@@ -2,7 +2,7 @@ import React from 'react';
 import Featured from './featured';
 import { SocialIcon } from 'react-social-icons';
 import '../styles/portfolio.css'
-import weather from "./image/weather_800x550.jpg"
+import code from "./image/code_800x550.jpg"
 import pets from "./image/pet_800x550.jpg"
 import password from "./image/password_800x550.jpg"
 import work from "./image/workday_800x550.jpg"
@@ -14,10 +14,10 @@ import tech from "./image/tech_800x550.jpg"
 const portfoilo = [
     {
         imageId: 1,
-        image: weather,
-        alt: "Weather app",
-        a: "https://jojo-designs.github.io/weatherApp/",
-        gitA: "https://github.com/JoJo-designs/weatherApp",
+        image: code,
+        alt: "Code Quiz app",
+        a: "https://jojo-designs.github.io/SuperCodeQuiz/",
+        gitA: "https://github.com/JoJo-designs/SuperCodeQuiz",
     },
     {
         imageId: 2,
