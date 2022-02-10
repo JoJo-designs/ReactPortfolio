@@ -1,5 +1,5 @@
 import React from 'react';
-import me from "./image/me.png"
+import me from "./image/little.png"
 
 export default function AboutImage() {
     return (
