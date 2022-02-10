@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.1e4f279b.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.2b571273.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.2b571273.chunk.js.map",
+    "main.css": "/ReactPortfolio/static/css/main.506dc7d5.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.4365cf16.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.4365cf16.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.8799ca22.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.8799ca22.js.map",
     "static/js/2.11b7b3e5.chunk.js": "/ReactPortfolio/static/js/2.11b7b3e5.chunk.js",
     "static/js/2.11b7b3e5.chunk.js.map": "/ReactPortfolio/static/js/2.11b7b3e5.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "static/css/main.1e4f279b.chunk.css.map": "/ReactPortfolio/static/css/main.1e4f279b.chunk.css.map",
+    "static/css/main.506dc7d5.chunk.css.map": "/ReactPortfolio/static/css/main.506dc7d5.chunk.css.map",
     "static/js/2.11b7b3e5.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.11b7b3e5.chunk.js.LICENSE.txt",
     "static/media/code_800x550.df292faf.jpg": "/ReactPortfolio/static/media/code_800x550.df292faf.jpg",
     "static/media/design1.0aded5c9.jpg": "/ReactPortfolio/static/media/design1.0aded5c9.jpg",
     "static/media/design2.74c4a665.jpg": "/ReactPortfolio/static/media/design2.74c4a665.jpg",
     "static/media/design3.17dcffc7.jpg": "/ReactPortfolio/static/media/design3.17dcffc7.jpg",
     "static/media/feat2.b3282c96.jpg": "/ReactPortfolio/static/media/feat2.b3282c96.jpg",
-    "static/media/me.85a65c36.png": "/ReactPortfolio/static/media/me.85a65c36.png",
+    "static/media/little.63311564.png": "/ReactPortfolio/static/media/little.63311564.png",
     "static/media/note_800x550.614c9a31.jpg": "/ReactPortfolio/static/media/note_800x550.614c9a31.jpg",
     "static/media/password_800x550.4a782592.jpg": "/ReactPortfolio/static/media/password_800x550.4a782592.jpg",
     "static/media/pet_800x550.24af06fb.jpg": "/ReactPortfolio/static/media/pet_800x550.24af06fb.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.8799ca22.js",
     "static/js/2.11b7b3e5.chunk.js",
-    "static/css/main.1e4f279b.chunk.css",
-    "static/js/main.2b571273.chunk.js"
+    "static/css/main.506dc7d5.chunk.css",
+    "static/js/main.4365cf16.chunk.js"
   ]
 }
