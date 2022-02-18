@@ -3,6 +3,8 @@ import '../styles/portfolio.css';
 import colour from "./image/design1.jpg";
 import decora from "./image/design2.jpg";
 import exhibition from "./image/design3.jpg"
+import tokyo from "./image/img23.jpg"
+import monster from "./image/img24.jpg"
 
 
 const design = [
@@ -23,6 +25,18 @@ const design = [
         image: exhibition,
         alt: "A poster for a museum exhibit about nenaderthals",
         href: "https://jojo-designs.github.io/portfoilo_helper/project3.html",
+    },
+    {
+        imageID: 4,
+        image: monster,
+        alt: "A flash card about folklore monsters",
+        href: "https://jojo-designs.github.io/portfoilo_helper/project4.html",
+    },
+    {
+        imageID: 5,
+        image: tokyo,
+        alt: "The cover for a travel guide for tokyo.",
+        href: "https://jojo-designs.github.io/portfoilo_helper/project5.html",
     },
 ]
 
