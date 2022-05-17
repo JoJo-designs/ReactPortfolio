@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.506dc7d5.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.e95861f1.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.e95861f1.chunk.js.map",
+    "main.css": "/ReactPortfolio/static/css/main.8bf7b91d.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.cd0dfd99.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.cd0dfd99.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.8799ca22.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.8799ca22.js.map",
     "static/js/2.11b7b3e5.chunk.js": "/ReactPortfolio/static/js/2.11b7b3e5.chunk.js",
     "static/js/2.11b7b3e5.chunk.js.map": "/ReactPortfolio/static/js/2.11b7b3e5.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "static/css/main.506dc7d5.chunk.css.map": "/ReactPortfolio/static/css/main.506dc7d5.chunk.css.map",
+    "static/css/main.8bf7b91d.chunk.css.map": "/ReactPortfolio/static/css/main.8bf7b91d.chunk.css.map",
     "static/js/2.11b7b3e5.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.11b7b3e5.chunk.js.LICENSE.txt",
     "static/media/code_800x550.df292faf.jpg": "/ReactPortfolio/static/media/code_800x550.df292faf.jpg",
     "static/media/design1.0aded5c9.jpg": "/ReactPortfolio/static/media/design1.0aded5c9.jpg",
@@ -17,6 +17,7 @@
     "static/media/feat2.b3282c96.jpg": "/ReactPortfolio/static/media/feat2.b3282c96.jpg",
     "static/media/img23.4e11fc75.jpg": "/ReactPortfolio/static/media/img23.4e11fc75.jpg",
     "static/media/img24.eb8120c6.jpg": "/ReactPortfolio/static/media/img24.eb8120c6.jpg",
+    "static/media/img47.f7707d3d.jpg": "/ReactPortfolio/static/media/img47.f7707d3d.jpg",
     "static/media/little.63311564.png": "/ReactPortfolio/static/media/little.63311564.png",
     "static/media/note_800x550.614c9a31.jpg": "/ReactPortfolio/static/media/note_800x550.614c9a31.jpg",
     "static/media/password_800x550.4a782592.jpg": "/ReactPortfolio/static/media/password_800x550.4a782592.jpg",
@@ -27,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.8799ca22.js",
     "static/js/2.11b7b3e5.chunk.js",
-    "static/css/main.506dc7d5.chunk.css",
-    "static/js/main.e95861f1.chunk.js"
+    "static/css/main.8bf7b91d.chunk.css",
+    "static/js/main.cd0dfd99.chunk.js"
   ]
 }
