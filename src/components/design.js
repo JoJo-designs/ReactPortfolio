@@ -5,6 +5,7 @@ import decora from "./image/design2.jpg";
 import exhibition from "./image/design3.jpg"
 import tokyo from "./image/img23.jpg"
 import monster from "./image/img24.jpg"
+import nintendo from "./image/img47.jpg"
 
 
 const design = [
@@ -38,6 +39,12 @@ const design = [
         alt: "The cover for a travel guide for tokyo.",
         href: "https://jojo-designs.github.io/portfoilo_helper/project5.html",
     },
+    {
+        imageID: 6,
+        image: nintendo,
+        alt: "nintendo luxury stationary set",
+        href: "https://jojo-designs.github.io/portfoilo_helper/project6.html",
+    },
 ]
 
 export default function Design() {
@@ -45,7 +52,7 @@ export default function Design() {
         <div className="inner">
             <div className="flexing">
                 {design.map((project) => (
-                    <div className="linkflex">
+                    <div className="linkflex les">
                         <a key={project.imageID} href={project.href} target="_blank">
                             <img src={project.image} alt={project.alt} className="imgGrid"></img>
                         </a>
